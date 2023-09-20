@@ -3,9 +3,9 @@
 #include "../Tyuiu.GofmanDV.Sprint1.Task2.V3.Lib/Tyuiu.GofmanDV.Sprint1.Task2.V3.Lib.cpp"
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
-namespace TyuiuDudkovIESprint1Task2V3Test
+namespace TyuiuGofmanDVSprint1Task2V3Test
 {
-	TEST_CLASS(TyuiuDudkovIESprint1Task2V3Test)
+	TEST_CLASS(TyuiuGofmanDVSprint1Task2V3Test)
 	{
 	public:
 
